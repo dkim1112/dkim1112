@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Dongeun (Daniel) Kim 👋</h1>
+<h1 align="center">Hey, I'm Dongeun (Daniel) Kim 👋</h1>
 
 <p align="center">
-  <b>Data Science · Machine Learning · AI Research · Bioinformatics</b>
+  <b>Data Science / Machine Learning / AI Research / Bioinformatics</b>
 </p>
 
 <p align="center">
@@ -26,7 +26,6 @@
 
 - 🎓 Studying **Data Science & Statistics** at the **University of Michigan**
 - 🧠 Exploring the fundamentals of **Machine Learning, NLP, Reinforcement Learning, and RAG**
-- 🧬 Interested in applying **data science and machine learning to biomedical and bioinformatics research**
 - 💻 I enjoy using **software engineering to build systems that connect data and support research**
 
 <br/>
