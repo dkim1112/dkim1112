@@ -77,7 +77,7 @@
 ## 📊 Some Projects
 
 <p align="center">
-  TBD...
+  TBD... (explore my repos...!)
 </p>
 
 <br/>
