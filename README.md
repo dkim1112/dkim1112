@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dongeun Kim</h1>
+<h1 align="center">Hey there, I'm Dongeun (Daniel) Kim</h1>
 
 <p align="center">
-  <b>Data Science · Machine Learning · AI Research</b>
+  <b>Data Science / Machine Learning / AI Research / Bioinformatics</b>
 </p>
 
 <p align="center">
@@ -21,34 +21,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying **Data Science** at the **University of Michigan**
-- 🔬 Interested in **Machine Learning, AI, Data Science, and Computational Biology**
-- 🧠 Exploring **representation learning, retrieval systems, and biomedical AI**
-- 💻 I enjoy building systems that connect **research, data, and software engineering**
-
-<br/>
-
-## 🔬 Featured Work
-
-### 🔎 Quanta — Retrieval-Augmented QA
-A retrieval-augmented question answering system designed for academic literature and long-form research documents.
-
-`Python` `RAG` `Sentence Transformers` `ChromaDB` `LangChain` `Streamlit`
-
-<a href="https://github.com/dkim1112/QuantaBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkim1112&repo=QuantaBot&theme=github_dark&hide_border=true"/>
-</a>
-
-<br/>
-
-### 🧬 PheWeb Data Pipeline
-Pipeline for collecting GWAS summary statistics across phenotypes and constructing matrices for downstream analysis.
-
-`Python` `Genomics` `PheWAS` `Data Engineering`
-
-<a href="https://github.com/dkim1112/PheWeb-Beta-Matrix-Builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dkim1112&repo=PheWeb-Beta-Matrix-Builder&theme=github_dark&hide_border=true"/>
-</a>
+- 🎓 Studying **Data Science & Statistics** at the **University of Michigan**
+- 🧠 Exploring **basics of ML, NLP, reinforcement learning, and RAG**
+- 💻 I enjoy utilizing software engineering to building systems that **connect data and help research**
 
 <br/>
 
@@ -84,7 +59,7 @@ Pipeline for collecting GWAS summary statistics across phenotypes and constructi
 
 <br/>
 
-## 📊 GitHub
+## 📊 GitHub (Version Control)
 
 <p align="center">
   <img height="165"
